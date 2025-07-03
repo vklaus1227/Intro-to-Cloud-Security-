@@ -5,7 +5,7 @@ This repository contains hands-on lab notes and walkthroughs from my TryHackMe c
 ## 🔍 Labs
 
 - Cloud Security Fundamentals  
-  ➤ `labs/cloud-security-fundamentals.md`
+  ➤ `[Cloud Security Fundamentals](labs/cloud-security-fundamentals.md)
 
 ## Tools Used
 - AWS Console, CLI
